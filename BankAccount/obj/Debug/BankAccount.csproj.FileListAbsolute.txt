@@ -1,0 +1,7 @@
+D:\Для языков\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+D:\Для языков\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+D:\Для языков\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+D:\Для языков\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+D:\Для языков\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+D:\Для языков\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+D:\Для языков\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
