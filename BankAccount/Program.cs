@@ -17,7 +17,18 @@ namespace BankAccountNS
         public const string DebitAmountLessThanZeroMessage = "Debit amount is less than zero";
 
         private BankAccount() { }
-
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
         public BankAccount(string customerName, double balance)
         {
             m_customerName = customerName;
